@@ -1,0 +1,27 @@
+
+---
+
+## ✅ `.gitignore` for C++ Project
+
+### ➤ Create a file named `.gitignore` and paste this:
+
+```gitignore
+# Ignore executable
+attendance
+attendance.exe
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Compiled Object Files
+*.o
+*.obj
+
+# Backup Files
+*~
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
